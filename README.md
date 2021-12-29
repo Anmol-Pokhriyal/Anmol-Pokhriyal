@@ -1,10 +1,3 @@
- 👋 Hi, I’m Anmol Pokhriyal
-
-- 👀 I’m interested in web development & want to be a project manager.
-- 🌱 I’m currently learning backend(SQL,reactJS etc).
-- 💞️ I’m looking to collaborate on projects related to frontend development 
-- 📫 www.linkedin.com/in/anmol-pokhriyal-a190112007p
-
 <h1 align="center">Hi 👋, I'm Anmol Pokhriyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
